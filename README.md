@@ -2,6 +2,7 @@
 A collection of simple C# console exercises created to practice core language fundamentals.
 
 
+
 📌 Project Overview
 
 This project includes multiple small exercises covering basic C# concepts:
@@ -61,6 +62,7 @@ Convert.ToInt32
 Value comparison using Equals
 
 
+
 🛠 Technologies Used
 
 C#
@@ -70,6 +72,7 @@ C#
 Visual Studio
 
 
+
 ▶ How to Run
 
 Open the project in Visual Studio
@@ -77,8 +80,8 @@ Open the project in Visual Studio
 Run ConsoleApp1
 
 
-🎯 Purpose
 
+🎯 Purpose
 
 This project is intended for:
 
